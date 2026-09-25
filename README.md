@@ -1,7 +1,7 @@
-<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-banner-futuristic.jpg" alt="mango - a wireframe mango emblem on a dark grid horizon" width="100%"/>
+<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-banner-fresh.jpg" alt="mango - a fresh mango emblem on a dark grid horizon" width="100%"/>
 
 <h3 align="center"><code>mango</code></h3>
-<p align="center">building quietly. shipping carefully.</p>
+<p align="center">fresh builds. clean code.</p>
 
 ---
 
