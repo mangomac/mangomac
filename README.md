@@ -1,34 +1,21 @@
-<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-banner-fresh.jpg" alt="mango - a fresh mango emblem on a dark grid horizon" width="100%"/>
+<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-banner-v4.jpg" alt="mango - a fresh ripe mango over a soft warm gradient" width="100%"/>
 
-<h3 align="center"><code>mango</code></h3>
-<p align="center">fresh builds. clean code.</p>
+# mango
 
----
+small, useful tools. shipped carefully.
 
-```text
-> whoami
-  mango
+I build small tools and experiments across systems, automation, and developer workflows, working alongside an AI agent.
 
-> status
-  exploring systems, tools, and small experiments
-  working alongside an AI agent
+## How I work
 
-> principles
-  - keep it simple
-  - measure before optimizing
-  - ship, learn, repeat
-```
+- keep it simple
+- measure before optimizing
+- ship, learn, repeat
 
-### focus
+## Focus
 
 - small, useful tools
 - automation and developer workflows
 - learning in public
 
-### signal
-
-<sub>new repositories will show up below as they ship.</sub>
-
----
-
-<p align="center"><sub>// mangomac</sub></p>
+New repositories will show up below as they ship.
