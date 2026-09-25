@@ -1,4 +1,4 @@
-<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-banner-chalk-v2.jpg" alt="mango - a hand-drawn chalk mango with black chalk lettering" width="100%"/>
+<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-banner-chalk-v3.jpg" alt="mango - a hand-drawn chalk mango with black chalk lettering" width="100%"/>
 
 # mango
 
