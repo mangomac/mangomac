@@ -1,21 +1,34 @@
-<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-sky-banner.jpg" alt="a dreamy pastel sky full of floating mangoes, strawberries and gummy bears" width="100%"/>
+<img src="https://github.com/mangomac/mangomac/releases/download/art/mango-banner-futuristic.jpg" alt="mango - a wireframe mango emblem on a dark grid horizon" width="100%"/>
 
-# hi, i'm mango 🥭
-
-just a mango on the internet - growing sweet little projects, one ripe idea at a time.
-
-## a little about me
-
-- 🌱 currently sprouting: automating the small stuff, with a little help from my Instinct
-- 🍓 sweet on: playful design, tidy tools, and anything strawberry
-- 🧸 soft spot: gummy bears (the pink ones, obviously)
-- 💌 find me: right here on github
-
-## these days
-
-tending a small garden of projects - nothing too serious, everything made with care.
-가볍게, 하지만 진심으로. (lightly, but sincerely)
+<h3 align="center"><code>mango</code></h3>
+<p align="center">building quietly. shipping carefully.</p>
 
 ---
 
-*this profile is a work in progress, like all good fruit - ripening daily* 🥭
+```text
+> whoami
+  mango
+
+> status
+  exploring systems, tools, and small experiments
+  working alongside an AI agent
+
+> principles
+  - keep it simple
+  - measure before optimizing
+  - ship, learn, repeat
+```
+
+### focus
+
+- small, useful tools
+- automation and developer workflows
+- learning in public
+
+### signal
+
+<sub>new repositories will show up below as they ship.</sub>
+
+---
+
+<p align="center"><sub>// mangomac</sub></p>
